@@ -6,7 +6,8 @@
 
 | **Build Type**   |`Linux`           |`MacOS`           |`Windows`         |
 | :---:            | :---:            | :---:            | :---:            |
-| **Build Status** | [![Status](https://github.com/CMU-Perceptual-Computing-Lab/openpose/workflows/CI/badge.svg)](https://github.com/CMU-Perceptual-Computing-Lab/openpose/actions) | [![Status](https://github.com/CMU-Perceptual-Computing-Lab/openpose/workflows/CI/badge.svg)](https://github.com/CMU-Perceptual-Computing-Lab/openpose/actions) | [![Status](https://ci.appveyor.com/api/projects/status/5leescxxdwen77kg/branch/master?svg=true)](https://ci.appveyor.com/project/gineshidalgo99/openpose/branch/master) |
+| **Build Status** | [![Status](https://github.com/CMU-Perceptual-Computing-Lab/openpose/workflows/CI/badge.svg)](https://github.com/CMU-Perceptual-Computing-Lab/openpose/actions) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjb2020-super%2Fopenpose.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjb2020-super%2Fopenpose?ref=badge_shield)
+| [![Status](https://github.com/CMU-Perceptual-Computing-Lab/openpose/workflows/CI/badge.svg)](https://github.com/CMU-Perceptual-Computing-Lab/openpose/actions) | [![Status](https://ci.appveyor.com/api/projects/status/5leescxxdwen77kg/branch/master?svg=true)](https://ci.appveyor.com/project/gineshidalgo99/openpose/branch/master) |
 
 [**OpenPose**](https://github.com/CMU-Perceptual-Computing-Lab/openpose) has represented the **first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images**.
 
@@ -188,3 +189,6 @@ Paper links:
 
 ## License
 OpenPose is freely available for free non-commercial use, and may be redistributed under these conditions. Please, see the [license](./LICENSE) for further details. Interested in a commercial license? Check this [FlintBox link](https://cmu.flintbox.com/#technologies/b820c21d-8443-4aa2-a49f-8919d93a8740). For commercial queries, use the `Contact` section from the [FlintBox link](https://cmu.flintbox.com/#technologies/b820c21d-8443-4aa2-a49f-8919d93a8740) and also send a copy of that message to [Yaser Sheikh](mailto:yaser@cs.cmu.edu).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjb2020-super%2Fopenpose.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjb2020-super%2Fopenpose?ref=badge_large)
